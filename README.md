@@ -6,7 +6,7 @@ MaterialViewPager
 [![Join the chat at https://gitter.im/florent37/MaterialViewPager](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/florent37/MaterialViewPager?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Material Design ViewPager easy to use library
-
+　　2015 年 Material 真是火遍全球，排名第 8 位的同样是传统 ViewPager 控件的 Material Design 版本。
 [![Build screen](https://raw.githubusercontent.com/florent37/MaterialViewPager/master/screenshots/screenshot_2_small.png)](http://youtu.be/g6tTDVceM9E)
 
 #Sample
